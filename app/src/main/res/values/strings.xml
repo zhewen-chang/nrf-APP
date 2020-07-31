@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TestURL</string>
+    <string name="test_placeholder">Result</string>
+    <string name="url_placeholder">API:</string>
+    <string name="default_api">http://134.208.6.62/exec/testAPI.php</string>
+    <string name="submit">GET!</string>
+    <string name="upload_time">Upload Time</string>
+    <string name="channel_name">Alerm</string>
+    <string name="channel_description">Alerm</string>
+</resources>
